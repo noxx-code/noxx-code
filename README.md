@@ -1,127 +1,160 @@
-<!--
-  GitHub profile README for: noxx
-  Theme: dark • terminal-inspired • minimal • security / infra focused
--->
-
-# TARUN CHOUDHARY
-
+<!-- GitHub profile README for Tarun Choudhary / terminal.ciphernet -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9FD3FF&center=true&vCenter=true&width=600&lines=systems+•+security+•+automation+•+AI;terminal.ciphernet;privacy-oriented+systems+builder"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Tarun%20Choudhary&fontSize=42&fontColor=7dd3fc&animation=fadeIn" alt="Tarun Choudhary banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Cybersecurity+%E2%80%A2+Network+Security+%E2%80%A2+Automation+%E2%80%A2+Systems;terminal.ciphernet;SOC+learning+%7C+Linux+%7C+infrastructure+%7C+AI+workflows" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Cybersecurity • Network Security • Automation • Systems</strong><br />
+  <a href="https://terminal.ciphernet.org">terminal.ciphernet.org</a>
+</p>
+
+<p align="center">
+  <a href="https://terminal.ciphernet.org"><img src="https://img.shields.io/badge/terminal.ciphernet-0f172a?style=for-the-badge&logo=gnometerminal&logoColor=7dd3fc" alt="terminal.ciphernet" /></a>
+  <img src="https://img.shields.io/badge/Cybersecurity-0b1220?style=for-the-badge&logo=hackthebox&logoColor=7dd3fc" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Automation-0b1220?style=for-the-badge&logo=authelia&logoColor=7dd3fc" alt="Automation" />
+  <img src="https://img.shields.io/badge/SOC%20Learner-0b1220?style=for-the-badge&logo=suricata&logoColor=7dd3fc" alt="SOC Learner" />
 </p>
 
 ---
 
-
 ## About
 
-I build and operate infrastructure and automation systems with a security-first mindset. Regularly experimenting with AI tooling to augment workflows and prototype robust automation. Studying offensive techniques responsibly to better defend systems. Focus areas:
+I’m Tarun Choudhary, a cybersecurity student building toward systems and security engineering work. My focus is practical: SOC operations, threat hunting, network and web security, offensive security fundamentals, and infrastructure that is observable, automatable, and easier to trust.
 
-- Linux & low-level tooling
-- backend architecture and resilient services
-- cloud infrastructure and repeatable automation
-- developer tooling and terminal-native workflows
-- privacy-forward design and threat-aware engineering
+I spend time on TryHackMe labs, home lab experimentation, packet analysis, vulnerability assessment, authentication security, Linux systems, and terminal-native tooling. I also experiment with AI workflows where they improve analysis, automation, and developer productivity without weakening control or privacy.
+
+I like understanding systems deeply before touching them. That usually means reading logs, tracing traffic, testing assumptions, and building small tools that expose how something actually works.
 
 ---
 
-## Featured Project — terminal.ciphernet
+## Featured Projects
 
-> terminal.ciphernet — a terminal-first experimental environment focused on secure workflows, infrastructure tooling, automation, and AI integrations.
-
-- Terminal-native UX for secure operations and auditability.
-- Modular integrations for infra tasks, secrets-aware automation, and AI-assisted runbooks.
-- Designed for reproducible, auditable, and privacy-respecting automation.
-
-[Explore terminal.ciphernet](https://github.com/noxx-code/terminal.ciphernet)
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [terminal.ciphernet](https://github.com/noxx-code/terminal.ciphernet) | Secure workflows, infrastructure tooling, automation, AI integrations | Terminal-first experimental environment focused on secure workflows, automation, infrastructure tooling, and AI integrations. |
+| Web-Based Terminal Emulator | JavaScript | Command parsing, terminal simulation, responsive UI, browser-based shell experience. |
+| Peer-to-Peer LAN Chat Application | Python, TCP/IP, Socket Programming | Decentralized communication, LAN networking, peer-to-peer architecture. |
+| Cybersecurity Home Lab | Linux, networking, security tooling | Linux virtual machines, packet analysis, vulnerability scanning, offensive and defensive practice. |
+| ESP32 Wireless Security Toolkit | Embedded systems, wireless analysis | Wi-Fi/BLE experimentation, embedded systems, wireless analysis, IoT security concepts. |
 
 ---
 
 ## Tech Stack
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=7dd3fc" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-0b1220?style=for-the-badge&logo=lua&logoColor=7dd3fc" alt="Lua" />
+  <img src="https://img.shields.io/badge/Lua%20Script-0b1220?style=for-the-badge&logo=lua&logoColor=7dd3fc" alt="Lua Script" />
+  <img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=7dd3fc" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=c%2B%2B&logoColor=7dd3fc" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=7dd3fc" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=7dd3fc" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-0b1220?style=for-the-badge&logo=html5&logoColor=7dd3fc" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-0b1220?style=for-the-badge&logo=css3&logoColor=7dd3fc" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bash-0b1220?style=for-the-badge&logo=gnubash&logoColor=7dd3fc" alt="Bash" />
+</p>
+
+### Cybersecurity Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-0b1220?style=for-the-badge&logo=wireshark&logoColor=7dd3fc" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0b1220?style=for-the-badge&logo=nmap&logoColor=7dd3fc" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-0b1220?style=for-the-badge&logo=burpsuite&logoColor=7dd3fc" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Splunk-0b1220?style=for-the-badge&logo=splunk&logoColor=7dd3fc" alt="Splunk" />
+  <img src="https://img.shields.io/badge/TryHackMe-0b1220?style=for-the-badge&logo=tryhackme&logoColor=7dd3fc" alt="TryHackMe" />
+</p>
+
+### Infrastructure & Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=7dd3fc" alt="Linux" />
+  <img src="https://img.shields.io/badge/Azure-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=7dd3fc" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-0b1220?style=for-the-badge&logo=terraform&logoColor=7dd3fc" alt="Terraform" />
+  <img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=7dd3fc" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-0b1220?style=for-the-badge&logo=mariadb&logoColor=7dd3fc" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=7dd3fc" alt="Git" />
+</p>
 
 ---
 
 ## Philosophy
 
-- **Build first:** prioritize working prototypes that reveal real constraints.
-- **Automate:** remove repetitive work; scripts > manual steps.
-- **Understand deeply:** prefer reading code, kernels, and protocols.
-- **Privacy matters:** design to minimise data exposure and risk.
-- **Learn aggressively:** experiment with techniques, then harden them.
-
----
-
-## GitHub Stats
-
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
 <p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noxx-code&theme=tokyo-night&hide_border=true" />
+  <img src="https://img.shields.io/badge/build%20first-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="build first" />
+  <img src="https://img.shields.io/badge/automate%20repetitive%20work-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="automate repetitive work" />
+  <img src="https://img.shields.io/badge/understand%20systems%20deeply-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="understand systems deeply" />
+  <img src="https://img.shields.io/badge/privacy%20matters-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="privacy matters" />
+  <img src="https://img.shields.io/badge/learn%20aggressively-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="learn aggressively" />
 </p>
 
 ---
 
-## Terminal (live mock)
+## Community & Leadership
 
-> booting terminal.ciphernet...
->
-> initializing secure environment...
->
-> loading modules: auth, vault, infra, ai-assist
->
-> status: online
+I stay involved in Microsoft learning and community spaces, and I try to help other students discover Microsoft services, cloud learning paths, and practical ways to build with them. Most of that work is grounded in clear explanations, shared experiments, and small technical contributions rather than hype.
 
 ---
 
-## Terminal Snippet — quick look
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=noxx-code&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+## Terminal Notes
 
 ```console
-$ ssh admin@ciphernet
-Welcome to terminal.ciphernet — minimal, auditable, private
-> cfg sync infra/prod --confirm
-> runbook:ai:assist --scan --dry-run
-status: ok • 3 tasks queued
+> booting terminal.ciphernet...
+> initializing secure environment...
+> status: online
+```
+
+```console
+> learning offensive security
+> building automation systems
+> analyzing network traffic
+> experimenting with infrastructure
 ```
 
 ---
 
-## Extras
+## Environment Snapshot
 
-- Clean ASCII accents:
-
+```text
+tarun@terminal.ciphernet:~$
+role        : cybersecurity student
+focus       : SOC learning, network security, web security
+tools       : Linux, Wireshark, Nmap, Burp Suite, Splunk, TryHackMe
+workstyle   : terminal-native, automation-first, privacy-aware
+status      : building
 ```
-  ╔════════════════════════════════════╗
-  ║ terminal.ciphernet — secure shells ║
-  ╚════════════════════════════════════╝
-```
-
-- Shields & badges included above for a compact, machine-readable stack summary.
 
 ---
 
-If you want, I can:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noxx-code&label=profile%20views&color=0e7490&style=flat" alt="profile views" />
+</p>
 
-- convert the SVG into a separate asset file
-- add a repository badge for `terminal.ciphernet` when it's created
-- tune colors or spacing for a specific theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" alt="divider" />
+</p>
 
----
-
-© noxx — systems, security, infrastructure
+<p align="center">
+  <a href="https://terminal.ciphernet.org">terminal.ciphernet.org</a>
+</p>
