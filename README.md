@@ -110,7 +110,7 @@ status: ok • 3 tasks queued
 
 ```
   ╔════════════════════════════════════╗
-  ║  terminal.ciphernet — secure shells ║
+  ║ terminal.ciphernet — secure shells ║
   ╚════════════════════════════════════╝
 ```
 
