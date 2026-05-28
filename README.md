@@ -3,20 +3,18 @@
   Theme: dark • terminal-inspired • minimal • security / infra focused
 -->
 
-# noxx
+# TARUN CHOUDHARY
 
-<div align="left">
 
-**systems • security • automation • AI**
-
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9FD3FF&center=true&vCenter=true&width=600&lines=systems+•+security+•+automation+•+AI;terminal.ciphernet;privacy-oriented+systems+builder"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
-<!-- Animated typing (simple, inline SVG). Renders on GitHub where SVG is allowed. -->
-<p align="left">
-  <img alt="typing" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='720' height='36' viewBox='0 0 720 36'><style>text{font-family:Consolas,monaco,monospace;font-size:16px;fill:#9FD3FF}</style><rect width='100%25' height='100%25' fill='%230a0a0a' rx='3'/><text x='12' y='22'>systems • security • automation • AI</text><rect x='12' y='8' width='8' height='20' fill='%2396F2A3'><animate attributeName='opacity' values='1;0;1' dur='1s' repeatCount='indefinite'/></rect></svg>">
-</p>
 
 ## About
 
@@ -68,11 +66,7 @@ I build and operate infrastructure and automation systems with a security-first 
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" />
