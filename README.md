@@ -69,13 +69,17 @@ I build and operate infrastructure and automation systems with a security-first 
 ## GitHub Stats
 
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxx-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxx-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noxx-code&theme=dark&hide_border=true" />
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=noxx-code&theme=react-dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noxx-code&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
