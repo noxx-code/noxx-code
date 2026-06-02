@@ -24,13 +24,18 @@
 
 ## About
 
-I’m Tarun Choudhary, a cybersecurity student building toward systems and security engineering work. My focus is practical: SOC operations, threat hunting, network and web security, offensive security fundamentals, and infrastructure that is observable, automatable, and easier to trust.
+I build and validate security controls for Linux-based infrastructure and networked environments, focusing on SOC operations, detection engineering, and threat hunting. My practice emphasizes observability and automation: instrumenting hosts and network paths for high-fidelity telemetry, developing detection logic and playbooks, and validating controls with packet-level forensics and targeted vulnerability validation. I iterate in home labs—running adversary-emulation exercises, capturing pcaps, tuning IDS and SIEM rules, and producing small tooling that automates evidence collection and triage.
 
-I spend time on TryHackMe labs, home lab experimentation, packet analysis, vulnerability assessment, authentication security, Linux systems, and terminal-native tooling. I also experiment with AI workflows where they improve analysis, automation, and developer productivity without weakening control or privacy.
+I contributed to AegisGuard PQC Scanner v2.0 (PNB Cybersecurity Hackathon 2026, in collaboration with IIT Kanpur), working on backend features, security functionality, testing, and platform evolution. That work covered TLS cryptographic analysis, PQC readiness assessment, CBOM generation, crypto-agility evaluation, and practical migration planning—providing operational context for Quantum Security and Post‑Quantum Cryptography considerations.
 
-I like understanding systems deeply before touching them. That usually means reading logs, tracing traffic, testing assumptions, and building small tools that expose how something actually works.
+My approach is engineering-first: instrument before assuming, test hypotheses with controlled experiments, and codify verification so detections are measurable and repeatable. I use offensive techniques selectively to map detection gaps and harden analytics. AI workflows are applied only when they demonstrably improve automation or analysis while preserving auditability. I prefer compact, reproducible experiments that reveal how systems behave and yield concrete improvements to detection and response.
 
 ---
+
+## Key Contributions
+
+- AegisGuard PQC Scanner v2.0 — PNB Cybersecurity Hackathon 2026 (collaboration with IIT Kanpur): contributed backend development, security features, testing, and platform evolution. Platform capabilities included TLS crypto analysis, PQC readiness assessment, CBOM generation, crypto-agility assessment, compliance mapping, risk scoring, asset discovery, security reporting, CVE intelligence, security header auditing, quantum-threat assessment, and migration planning.
+
 
 ## Featured Projects
 
