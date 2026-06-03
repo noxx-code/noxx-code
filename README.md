@@ -112,8 +112,12 @@ I stay involved in Microsoft learning and community spaces, and I try to help ot
 
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=noxx-code&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=noxx-code&theme=tokyonight&hide_border=true" alt="Contribution streak" /></p>
+
+---
+
+<p align="center">  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noxx-code&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </p>
 
 ---
