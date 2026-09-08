@@ -112,13 +112,13 @@ I stay involved in Microsoft learning and community spaces, and I try to help ot
 
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=tarun-choudhary-dev&theme=tokyonight&hide_border=true" alt="Contribution streak" /></p>
-
----
-
-<p align="center">  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-choudhary-dev&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img
+    src="https://streak-stats.demolab.com/?user=tarun-choudhary-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+    width="495"
+  />
 </p>
+
 
 ---
 
@@ -156,9 +156,7 @@ status      : building
   <img src="https://komarev.com/ghpvc/?username=noxx-code&label=profile%20views&color=0e7490&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" alt="divider" />
-</p>
+---
 
 <p align="center">
   <a href="https://terminal.ciphernet.org">terminal.ciphernet.org</a>
